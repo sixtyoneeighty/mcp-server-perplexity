@@ -20,7 +20,7 @@ MCP Server for the Perplexity API.
 #### Claude Desktop
 
 - On macOS: `~/Library/Application\ Support/Claude/claude_desktop_config.json`  
-- On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
+
 
 ```
 "mcpServers": {
